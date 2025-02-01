@@ -60,6 +60,8 @@ The dataset used in this project has been carefully curated and improved to achi
 
 ![Model Architecture](src/images/figure_architecture.jpg)
 
+### Detail of Architecture
+![Model Architecture](src/images/figure_details.jpg)
 #### Modifying the YOLOv8 Head
 
 1. Install the YOLOv8 repository from Ultralytics:
