@@ -58,6 +58,8 @@ The dataset used in this project has been carefully curated and improved to achi
 
 ### Customizing YOLOv8 for PCB Defect Detection
 
+![Model Architecture](src/images/figure_architecture.jpg)
+
 #### Modifying the YOLOv8 Head
 
 1. Install the YOLOv8 repository from Ultralytics:
@@ -124,7 +126,7 @@ The following table summarizes the performance metrics for the best-performing m
 | Faster R-CNN    | 0.88      | 0.85   | 0.86     |
 | EfficientNet    | 0.85      | 0.83   | 0.84     |
 
-![Final Result](src/results/final_result.png)
+![Final Result](src/images/final_result.png)
 
 ## Usage
 
