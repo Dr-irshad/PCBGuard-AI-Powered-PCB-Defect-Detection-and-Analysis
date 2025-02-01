@@ -124,6 +124,8 @@ The following table summarizes the performance metrics for the best-performing m
 | Faster R-CNN    | 0.88      | 0.85   | 0.86     |
 | EfficientNet    | 0.85      | 0.83   | 0.84     |
 
+![Final Result](src/results/final_result.png)
+
 ## Usage
 
 ### Installation
