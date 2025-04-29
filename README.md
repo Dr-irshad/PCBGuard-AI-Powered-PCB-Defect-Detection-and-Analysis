@@ -1,5 +1,7 @@
 # PCBGuard-AI-Powered-PCB-Defect-Detection-and-Analysis
 
+**Collaborators**:  [Dr-Irshad Ibrahim](https://github.com/Dr-irshad) and [Umar Farooq](https://github.com/imumarfarooq)
+
 This repository contains the code and resources for a PCB defect detection project. The project uses YOLO and other comparative models to detect and classify PCB defects, along with improvements to the dataset for achieving better results.
 
 ## Defects Detected
